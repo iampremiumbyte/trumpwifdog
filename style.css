@@ -94,10 +94,11 @@ main video {
 
     h1 {
         margin-top: 2em;
+        font-size: 1.8em;
     }
 
     .tax h3 {
-        font-size: 1.3em;
+        font-size: 1em;
     }
 
 }
