@@ -63,3 +63,9 @@ main video {
     object-fit: cover;
     border-radius: 50%;
 }
+
+@media screen and (max-width: 1024px) {
+    nav {
+        font-size: 1em;
+    }
+}
