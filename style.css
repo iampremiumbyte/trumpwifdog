@@ -97,6 +97,21 @@ main video {
     margin-bottom: .5em;
 }
 
+.contract {
+    text-align: center;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+.contract h3,
+.contract p {
+    text-transform: none !important;
+}
+
+iframe {
+    height: 800px;
+}
+
 @media screen and (max-width: 768px) {
     nav {
         font-size: 1em;
@@ -112,6 +127,11 @@ main video {
     }
 
     .tax p {
+        font-size: .8em;
+    }
+
+    .contract h3,
+    .contract p {
         font-size: .8em;
     }
 
