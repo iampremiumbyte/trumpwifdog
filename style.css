@@ -101,4 +101,8 @@ main video {
         font-size: 1em;
     }
 
+    .tax p {
+        font-size: .8em;
+    }
+
 }
